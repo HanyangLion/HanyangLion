@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @HanyangLion, I am currently a senior in Hanyang University, and my major is in Biomedical Engineering.
+- Biomedical Engineering is a major that studies a variety of fields, and the major mainly focuses on medical fields. However, in my university, we also study neuroscince, which is closely related to AI.
+- 👀 I’m interested in AI(Artificial Intelligence), and Computer Vision. 
+- 🌱 I’m currently learning Python, and the theory of AI.
+- 💞️ I’m looking to collaborate on various projects related to AI.
+- 📫 You can contact me by giving an email on wlguswkd3@naver.com
